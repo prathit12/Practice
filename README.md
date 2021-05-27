@@ -1,2 +1,2 @@
 # Practice
-PRoblem solution using desing of algorithms (Language used Java)
+Problem solution using design of algorithms (Language used Java)
